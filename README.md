@@ -137,6 +137,8 @@ Execute the program using runserver command.
 </html>
 ```
 # OUTPUT
+![COLLEE HEADING  ](https://github.com/user-attachments/assets/d1978596-18c4-448f-8e87-06672b4259d6)
+
 ![Screenshot 2025-04-22 072650](https://github.com/user-attachments/assets/4dd3d08b-9d08-4b32-a3fd-fd7fa2936857)
 
 # RESULT
